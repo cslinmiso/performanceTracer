@@ -1,8 +1,8 @@
 ![alt logo](chrome-extension/icon128.png "Title")
 performanceTracer
 =================
-
-查看performance API 耗时统计
+##查看打开网页至加载完毕各阶段时间消耗的工具
+performance API 耗时统计
 
 ##注意事项
 
