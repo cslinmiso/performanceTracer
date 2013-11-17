@@ -17,8 +17,6 @@ __因为：Navigation Timing stops at the window.onload event<br/>
 ```
  <script type="text/javascript" src="performance-min.js"></script>
 ```
-<pre><code>"performance-min.js"
-</code></pre>
 
 ####2、安装chrome插件
 由于chrome商店发布应用要收money，本人是穷X，就不发布了
