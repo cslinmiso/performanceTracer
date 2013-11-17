@@ -14,6 +14,9 @@ __因为：Navigation Timing stops at the window.onload event<br/>
 ##使用方法
 
 ####1、直接在html文件中引用
+```
+ <script type="text/javascript" src="performance-min.js"></script>
+```
 <pre><code>"performance-min.js"
 </code></pre>
 
