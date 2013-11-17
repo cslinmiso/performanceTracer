@@ -13,12 +13,12 @@ __因为：Navigation Timing stops at the window.onload event<br/>
 
 ##使用方法
 
-####1、直接在html文件中引用
+####第一种方式：直接在html文件中引用
 ```
  <script type="text/javascript" src="performance-min.js"></script>
 ```
 
-####2、安装chrome插件
+####第二种方式：安装chrome插件
 由于chrome商店发布应用要收money，本人是穷X，就不发布了
 直接从crx文件夹内下载performance-tracer.crx 文件<br/>
 打开chrome在地址栏输入chrome://extensions/打开插件管理页<br/>
